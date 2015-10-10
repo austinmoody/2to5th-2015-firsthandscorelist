@@ -6,14 +6,14 @@ This is a companion piece to the First Hand High Five game found [here](https://
 
 This is written in [CoffeeScript](http://coffeescript.org/).
 
-The code resides in highfivescores.coffee and is 32 lines per cloc:
+The code resides in highfivescores.coffee and is 31 lines per cloc:
 
 <pre>
-http://cloc.sourceforge.net v 1.60  T=0.01 s (93.0 files/s, 4184.8 lines/s)
+http://cloc.sourceforge.net v 1.60  T=0.01 s (97.1 files/s, 4175.6 lines/s)
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
-CoffeeScript                     1             11              2             32
+CoffeeScript                     1             10              2             31
 -------------------------------------------------------------------------------
 </pre>
 
