@@ -19,7 +19,7 @@ CoffeeScript                     1             10              2             31
 
 I wasn't including the HTML file in this count... so if that must count I guess this is disqualified :)
 
-The CoffeeScript must be compiled to JavaScript for the <script> include in the HTML page to work.
+The CoffeeScript must be compiled to JavaScript for the include in the HTML page to work.
 
 <pre>coffee --compile highfivescores.coffee</pre>
 
